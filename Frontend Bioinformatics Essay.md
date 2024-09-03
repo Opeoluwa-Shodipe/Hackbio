@@ -15,7 +15,7 @@ In cancer research, frontend development allows capability of visualization for 
 Nevertheless, it's evident that frontend development is essential to contemporary cancer bioinformatics research. The progress of cancer research and therapy has been made possible by its user-friendly interfaces, which facilitate the study and evaluation of complex datasets. The need of frontend development for promoting creativity and enhancing patient outcomes grows as the sector advances.
  
 
-**REFERENCES**
+**References**
 
 Bostock, M., Ogievetsky, V., & Heer, J. (2011). D3: Data-driven documents. \*IEEE Transactions on Visualization and Computer Graphics, 17\*(12), 2301-2309.
 
