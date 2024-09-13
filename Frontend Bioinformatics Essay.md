@@ -74,11 +74,11 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 
 ---
 
-- **Benefits:**
-**Streamline and simplify researchers' daily calculations in the lab, saving valuable time and resources.
-**To enhance accuracy and minimize calculation errors by providing automated and reliable tools, leading to more accurate and reproducible results.
-**It offers researchers quick access and a convenient user-friendly web-based platform, eliminating the need for complex software or coding knowledge.
-**It is efficient by repeating automated calculations, allowing researchers to focus on more critical scientific tasks.
+**Benefits:**
+- **Streamline and simplify researchers' daily calculations in the lab, saving valuable time and resources.**
+- **To enhance accuracy and minimize calculation errors by providing automated and reliable tools, leading to more accurate and reproducible results.**
+- **It offers researchers quick access and a convenient user-friendly web-based platform, eliminating the need for complex software or coding knowledge.**
+- **It is efficient by repeating automated calculations, allowing researchers to focus on more critical scientific tasks.**
 
 ---
 
