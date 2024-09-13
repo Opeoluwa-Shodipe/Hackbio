@@ -50,41 +50,41 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 
 ---
 
-## HOME PAGE
-- **Logo:**
-[The BioCal Calculator features a clear and attractive logo that reflects its purpose—offering streamlined calculations for laboratory applications. You will see this logo prominently displayed at the top of the webpage.]
+## Home Page
+
+### Logo:
+The BioCal Calculator features a clear and attractive logo that reflects its purpose—offering streamlined calculations for laboratory applications. This logo is prominently displayed at the top of the webpage, providing instant recognition for users.
+
+### HackBio Badge:
+In one corner of the page, a small **HackBio** logo is placed to acknowledge the project's origin. The BioCal Calculator was initiated as part of the HackBio internship program, showcasing its connection to the broader bioinformatics community.
 
 ---
 
-- **HackBio Badge:**
-[A small HackBio logo is placed in one corner of the page to acknowledge the project's origin, as it was initiated as part of the HackBio internship program. This shows the project's connection to the broader bioinformatics community.]
+## About Page
+
+The About page provides detailed insights into the **BioCal Calculator** project, including its origins and goals.
+
+### Project Origin:
+The BioCal Calculator project was initiated during the **HackBio internship program**, where participants were tasked with creating **R Shiny dashboards** for bioinformatics applications. The goal was to develop a practical, user-friendly tool that would simplify common reagent preparation tasks for laboratory scientists. This project aims to positively impact the bioinformatics community by contributing to the advancement of scientific research.
+
+### Project Goals:
+- Enhance proficiency in building **interactive web applications** using **R Shiny**.
+- Create a tool to simplify reagent preparation calculations, saving time and effort for researchers.
+- Promote bioinformatics by offering a valuable resource for researchers and students.
+- Demonstrate problem-solving skills by identifying real-world issues and providing innovative bioinformatics solutions.
+
+### Benefits:
+- **Streamlined Calculations**: Simplify daily lab calculations, saving researchers valuable time and resources.
+- **Increased Accuracy**: Provide automated and reliable tools to enhance calculation accuracy, leading to more reproducible results.
+- **User-Friendly**: Offer a convenient, web-based platform that doesn't require complex software or coding skills.
+- **Efficiency**: Automate repeated calculations, allowing researchers to focus on more critical scientific tasks.
 
 ---
 
-- **About Page:**
-[The About page details the origins and goals of the BioCal Calculator project. It provides context for the platform’s development and purpose.]
-
----
-
-- **Project Goals:**
-** To enhance and develop proficiency in using R Shiny for building interactive web applications.
-** To create a tool that simplifies common reagent preparation calculations, saving time and effort for researchers.
-** To contribute and promote the advancement of bioinformatics by providing a valuable resource for researchers and students.
-** To showcase the ability to identify real-world problems and develop innovative solutions by using bioinformatics tools
-
----
-
-**Benefits:**
-- **Streamline and simplify researchers' daily calculations in the lab, saving valuable time and resources.**
-- **To enhance accuracy and minimize calculation errors by providing automated and reliable tools, leading to more accurate and reproducible results.**
-- **It offers researchers quick access and a convenient user-friendly web-based platform, eliminating the need for complex software or coding knowledge.**
-- **It is efficient by repeating automated calculations, allowing researchers to focus on more critical scientific tasks.**
-
----
-
-# Biocal Calculator
-
-Welcome to the **Biocal Calculator** repository. This platform provides a set of bioinformatics calculators designed to assist laboratory scientists in performing common laboratory calculations more efficiently and accurately.
+Stay connected with us:
+- **GitHub**: [BioCal Calculator GitHub](https://github.com/your-repo)
+- **Twitter**: [Follow us on Twitter](https://twitter.com/your-profile)
+- **Facebook**: [Like us on Facebook](https://facebook.com/your-page)
 
 ---
 
