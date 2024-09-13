@@ -40,10 +40,10 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 1. [Home Page](#HomePage)
 2. [About](#About)
 3. [Calculators](#Calculators)
-** Serial Dilution Calculator
-** Stock Solution Calculator
-** Sedimentation Coefficient Calculator
-** DNA and RNA Concentration Calculator
+   **Serial Dilution Calculator**
+   **Stock Solution Calculator**
+   **Sedimentation Coefficient Calculator**
+   **DNA and RNA Concentration Calculator**
 5. [Contacts](#Calculators)
 6. [Social Media & Github Links](#SocialMedia&GitubLinks)
 7. [Copyright Information](#CopyrightInformation) 
