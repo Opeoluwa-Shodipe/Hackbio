@@ -29,21 +29,20 @@ Neron,B. et al. (2009) Mobyle: a new full web bioinformatics framework. Bioinfor
 
 
 
-# Project Title
+# BIOCAL Calculator User Guide
 
 ## Overview
-This project aims to [briefly explain the purpose of the project]. The main goal is to [state the objective]. This document provides an overview of the project's structure, methodologies, and deliverables.
+The project Biocal is a powerful and user-friendly web-based platform designed to assist laboratory scientists with common reagent preparation calculations. This was developed as part of a HackBio internship program, the BioCal Calculator aims to streamline daily tasks, reduce errors, and enhance efficiency in scientific research.
 
 ---
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [Methodology](#methodology)
-4. [Timeline](#timeline)
-5. [Deliverables](#deliverables)
-6. [References](#references)
-7. [Contact Information](#contact-information)
+1. [Home Page](#HomePage)
+2. [About](#About)
+3. [Calculators](#Calculators)
+4. [Contacts](#Calculators)
+5. [Social Media & Github Links](#SocialMedia&GitubLinks)
+6. [Copyright Information](#CopyrightInformation) 
 
 ---
 
