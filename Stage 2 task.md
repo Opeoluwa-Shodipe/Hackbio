@@ -127,4 +127,4 @@ Stay updated with the BioCal Calculator project and other exciting endeavors by 
 The BioCal Calculator is subject to copyright laws protecting the intellectual property of its creators. For commercial use or distribution, please seek legal permission or licensing agreements.
 
 
-https://goal-getters.shinyapps.io/calculator/
+App Link: https://goal-getters.shinyapps.io/calculator/
