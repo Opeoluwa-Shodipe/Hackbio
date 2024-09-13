@@ -51,22 +51,22 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 ---
 
 ## HOME PAGE
-**Logo:
+- **Logo:**
 [The BioCal Calculator features a clear and attractive logo that reflects its purpose—offering streamlined calculations for laboratory applications. You will see this logo prominently displayed at the top of the webpage.]
 
 ---
 
-**HackBio Badge:
+- **HackBio Badge:**
 [A small HackBio logo is placed in one corner of the page to acknowledge the project's origin, as it was initiated as part of the HackBio internship program. This shows the project's connection to the broader bioinformatics community.]
 
 ---
 
-**About Page:
+- **About Page:**
 [The About page details the origins and goals of the BioCal Calculator project. It provides context for the platform’s development and purpose.]
 
 ---
 
-**Project Goals:
+- **Project Goals:**
 ** To enhance and develop proficiency in using R Shiny for building interactive web applications.
 ** To create a tool that simplifies common reagent preparation calculations, saving time and effort for researchers.
 ** To contribute and promote the advancement of bioinformatics by providing a valuable resource for researchers and students.
@@ -74,11 +74,12 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 
 ---
 
-**Benefits:
-** Streamline and simplify researchers' daily calculations in the lab, saving valuable time and resources.
-** To enhance accuracy and minimize calculation errors by providing automated and reliable tools, leading to more accurate and reproducible results.
-** It offers researchers quick access and a convenient user-friendly web-based platform, eliminating the need for complex software or coding knowledge.
-** It is efficient by repeating automated calculations, allowing researchers to focus on more critical scientific tasks.
+- **Benefits:**
+**Streamline and simplify researchers' daily calculations in the lab, saving valuable time and resources.
+**To enhance accuracy and minimize calculation errors by providing automated and reliable tools, leading to more accurate and reproducible results.
+**It offers researchers quick access and a convenient user-friendly web-based platform, eliminating the need for complex software or coding knowledge.
+**It is efficient by repeating automated calculations, allowing researchers to focus on more critical scientific tasks.
+
 ---
 
 ## Methodology
