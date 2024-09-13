@@ -81,13 +81,6 @@ The BioCal Calculator project was initiated during the **HackBio internship prog
 
 ---
 
-Stay connected with us:
-- **GitHub**: [BioCal Calculator GitHub](https://github.com/your-repo)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/your-profile)
-- **Facebook**: [Like us on Facebook](https://facebook.com/your-page)
-
----
-
 ## **CALCULATORS**
 
 ### **Serial Dilution Calculator**
