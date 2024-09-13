@@ -27,4 +27,83 @@ Liu, J., Lichtenberg, T., Hoadley, K. A., Poisson, L. M., Lazar, A. J., & Cherni
 
 Neron,B. et al. (2009) Mobyle: a new full web bioinformatics framework. Bioinformatics, 25, 3005–3011. 00207.
 
+
+
+# Project Title
+
+## Overview
+This project aims to [briefly explain the purpose of the project]. The main goal is to [state the objective]. This document provides an overview of the project's structure, methodologies, and deliverables.
+
+---
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Objectives](#objectives)
+3. [Methodology](#methodology)
+4. [Timeline](#timeline)
+5. [Deliverables](#deliverables)
+6. [References](#references)
+7. [Contact Information](#contact-information)
+
+---
+
+## Introduction
+[Provide a clear introduction to the project, explaining why it is being undertaken and what value it offers.]
+
+---
+
+## Objectives
+- **Objective 1**: [State the first objective of the project.]
+- **Objective 2**: [State the second objective.]
+- **Objective 3**: [Optional: Add more objectives as necessary.]
+
+---
+
+## Methodology
+This project follows the following methodology:
+1. **Phase 1: Planning**  
+   - [Explain planning activities, tools, or resources used.]
+2. **Phase 2: Execution**  
+   - [Describe how the execution of the project will be managed, tools or frameworks used.]
+3. **Phase 3: Evaluation**  
+   - [Discuss how the project's results will be assessed.]
+
+---
+
+## Timeline
+| Phase            | Description                              | Deadline          |
+|------------------|------------------------------------------|-------------------|
+| **Planning**     | Develop the project plan and team setup.  | [Insert Date]     |
+| **Execution**    | Begin implementation of the project.      | [Insert Date]     |
+| **Evaluation**   | Review the project for improvements.      | [Insert Date]     |
+
+---
+
+## Deliverables
+1. **Deliverable 1**: [Describe the expected output or outcome.]
+2. **Deliverable 2**: [Describe another deliverable.]
+
+---
+
+## References
+- [Reference 1](https://example.com): Brief description of the reference.
+- [Reference 2](https://example.com): Brief description of another reference.
+
+---
+
+## Contact Information
+- **Project Manager**: [Your Name]  
+  Email: [your.email@example.com]  
+  LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+  GitHub: [GitHub Profile](https://github.com/yourprofile)
+
+---
+
+## Connect with Us
+For further collaboration and inquiries, feel free to reach out:
+- [![GitHub](https://imageurl.com/github-icon.png)](https://github.com/your-repo)  
+- [![Twitter](https://imageurl.com/twitter-icon.png)](https://twitter.com/yourprofile)  
+- [![LinkedIn](https://imageurl.com/linkedin-icon.png)](https://linkedin.com/in/yourprofile)
+
+
  
