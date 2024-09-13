@@ -82,51 +82,89 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 
 ---
 
-## Methodology
-This project follows the following methodology:
-1. **Phase 1: Planning**  
-   - [Explain planning activities, tools, or resources used.]
-2. **Phase 2: Execution**  
-   - [Describe how the execution of the project will be managed, tools or frameworks used.]
-3. **Phase 3: Evaluation**  
-   - [Discuss how the project's results will be assessed.]
+# Biocal Calculator
+
+Welcome to the **Biocal Calculator** repository. This platform provides a set of bioinformatics calculators designed to assist laboratory scientists in performing common laboratory calculations more efficiently and accurately.
 
 ---
 
-## Timeline
-| Phase            | Description                              | Deadline          |
-|------------------|------------------------------------------|-------------------|
-| **Planning**     | Develop the project plan and team setup.  | [Insert Date]     |
-| **Execution**    | Begin implementation of the project.      | [Insert Date]     |
-| **Evaluation**   | Review the project for improvements.      | [Insert Date]     |
+## **CALCULATORS**
+
+### **Serial Dilution Calculator**
+This tool allows you to calculate the volumes needed to achieve specific concentrations through serial dilutions.
+
+**How to Use**:
+1. Enter the Initial Concentration of the stock solution.
+2. Specify the Desired Final Concentration.
+3. Input the Dilution Factor (e.g., 1:10).
+4. Enter the Total Volume required for the dilution.
+5. Click **Calculate** to display the volume of stock solution needed at each dilution step.
+
+**Example**:  
+You want to create a series of 1:10 dilutions from a 100 mM stock solution to achieve 10mM. Input 1:10 as the dilution factor, 100mM as the initial concentration, 10mM as the final concentration, and 1mL as the total volume. Click **Calculate**, and the calculator will display the volume of stock solution needed at each dilution step.
 
 ---
 
-## Deliverables
-1. **Deliverable 1**: [Describe the expected output or outcome.]
-2. **Deliverable 2**: [Describe another deliverable.]
+### **Stock Solution Calculator**
+This calculator helps determine the volume of a stock solution required to achieve a specific final concentration in a given volume.
+
+**How to Use**:
+1. Enter the Concentration of the Stock Solution.
+2. Input the Final Desired Concentration.
+3. Specify the Final Volume needed.
+4. Click **Calculate** to get the volume of the stock solution needed, along with the amount of solvent required.
+
+**Example**:  
+To prepare 500 mL of a 0.1 M solution from a 1 M stock solution, input 1 M in the stock concentration field, 0.1 M in the final concentration field, and 500 mL in the total volume field. Click **Calculate**, and the calculator will show the volume of stock solution to use and how much solvent to add.
 
 ---
 
-## References
-- [Reference 1](https://example.com): Brief description of the reference.
-- [Reference 2](https://example.com): Brief description of another reference.
+### **Sedimentation Coefficient Calculator**
+This tool calculates sedimentation coefficients based on molecular weight and density.
+
+**How to Use**:
+1. Enter the Molecular Weight of the molecule.
+2. Specify the Density of the Solvent.
+3. Input any additional parameters (e.g., temperature or viscosity).
+4. Click **Calculate** to display the sedimentation coefficient.
+
+**Example**:  
+If a macromolecule has a molecular weight of 300 kDa and moves at a velocity of 10 cm/s under 100,000 x g, the calculator will determine the sedimentation coefficient.
 
 ---
 
-## Contact Information
-- **Project Manager**: [Your Name]  
-  Email: [your.email@example.com]  
-  LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-  GitHub: [GitHub Profile](https://github.com/yourprofile)
+### **DNA and RNA Concentration Calculator**
+This calculator helps determine the concentration of DNA and RNA based on absorbance values.
+
+**How to Use**:
+1. Input the Absorbance (A260) for the nucleic acid.
+2. Specify the Dilution Factor, if applicable.
+3. Enter the Pathlength of the cuvette used in spectrophotometry.
+4. Click **Calculate** to determine the final DNA or RNA concentration in micrograms per milliliter (µg/mL).
+
+**Example**:  
+If you have an A260 reading of 0.8 and a dilution factor of 2, input 0.8 in the absorbance field and 2 in the dilution factor field. Click **Calculate** to get the DNA or RNA concentration in your sample.
 
 ---
 
-## Connect with Us
-For further collaboration and inquiries, feel free to reach out:
-- [![GitHub](https://imageurl.com/github-icon.png)](https://github.com/your-repo)  
-- [![Twitter](https://imageurl.com/twitter-icon.png)](https://twitter.com/yourprofile)  
-- [![LinkedIn](https://imageurl.com/linkedin-icon.png)](https://linkedin.com/in/yourprofile)
+## **Contacts**
+If you have any questions or feedback, feel free to contact the contributors:
+- **Tomilayo Oluwaseun Fadairo**: [Oluwaseuntomilayo9@gmail.com](mailto:Oluwaseuntomilayo9@gmail.com)
+- **Akinjide Samuel Anifowose**: [Anifowosesamuel54@gmail.com](mailto:Anifowosesamuel54@gmail.com)
+- **Opeoluwa Shodipe**: [Opeoluwashodipe94@gmail.com](mailto:Opeoluwashodipe94@gmail.com)
+- **Ndubueze Ngozika Abigail**: [ndubungoabi2002@gmail.com](mailto:ndubungoabi2002@gmail.com)
+- **Nwankwo Peace Nneka**: [nnekapeace85@gmail.com](mailto:nnekapeace85@gmail.com)
 
+---
 
- 
+## **Social Media & GitHub Links**
+Stay updated with the **BioCal Calculator** project and engage with the bioinformatics community:
+
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **X (formerly Twitter)**: [Your X Profile](#)
+- **GitHub Repository**: [Link to the GitHub Repository](#)
+
+---
+
+## **Copyright Information**
+The **Biocal Calculator** is subject to copyright laws protecting the intellectual property of its creators. For commercial use or distribution of this tool, please seek legal permission or licensing agreements.
