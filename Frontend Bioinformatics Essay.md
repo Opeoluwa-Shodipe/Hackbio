@@ -40,14 +40,37 @@ The project Biocal is a powerful and user-friendly web-based platform designed t
 1. [Home Page](#HomePage)
 2. [About](#About)
 3. [Calculators](#Calculators)
-4. [Contacts](#Calculators)
-5. [Social Media & Github Links](#SocialMedia&GitubLinks)
-6. [Copyright Information](#CopyrightInformation) 
+** Serial Dilution Calculator
+** Stock Solution Calculator
+** Sedimentation Coefficient Calculator
+** DNA and RNA Concentration Calculator
+5. [Contacts](#Calculators)
+6. [Social Media & Github Links](#SocialMedia&GitubLinks)
+7. [Copyright Information](#CopyrightInformation) 
 
 ---
 
-## Introduction
-[Provide a clear introduction to the project, explaining why it is being undertaken and what value it offers.]
+## HOME PAGE
+**Logo:
+[The BioCal Calculator features a clear and attractive logo that reflects its purpose—offering streamlined calculations for laboratory applications. You will see this logo prominently displayed at the top of the webpage.]
+
+---
+
+**HackBio Badge:
+[A small HackBio logo is placed in one corner of the page to acknowledge the project's origin, as it was initiated as part of the HackBio internship program. This shows the project's connection to the broader bioinformatics community.]
+
+---
+
+**About Page:
+[The About page details the origins and goals of the BioCal Calculator project. It provides context for the platform’s development and purpose.]
+
+---
+
+**Project Goals:
+** To enhance and develop proficiency in using R Shiny for building interactive web applications.
+** To create a tool that simplifies common reagent preparation calculations, saving time and effort for researchers.
+** To contribute and promote the advancement of bioinformatics by providing a valuable resource for researchers and students.
+** To showcase the ability to identify real-world problems and develop innovative solutions by using bioinformatics tools
 
 ---
 
