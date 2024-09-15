@@ -32,3 +32,8 @@ stock_volume <- reactive({
   V1 <- (C2 × V2) / C1
   return(V1)
 })
+
+
+**Text:** Show the stock solution's computed volume.
+
+**Scene:** Make a bar graph that shows the ratio of the diluent (V2-V1) to the stock solution (V1):
