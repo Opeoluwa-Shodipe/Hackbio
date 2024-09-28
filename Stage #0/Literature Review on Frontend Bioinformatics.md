@@ -4,6 +4,10 @@
 
 Frontend development plays a pivotal role in bioinformatics, particularly for biologists who often find command-line interfaces challenging. To ensure bioinformatic tools are accessible to a wider community, frontend development bridges the gap by offering user-friendly web interfaces. Platforms such as **Galaxy** and **Mobyle** were created to integrate various bioinformatics tools into a single, accessible interface for users (Goecks et al., 2010; Neron et al., 2009).
 
+![Uploading Fiyin foluwa.png…]()
+
+
+
 In cancer research, web-based dashboards are revolutionizing data exploration and visualization. A great example is **cBioPortal for Cancer Genomics**, which provides an interactive interface for accessing cancer genomics data, allowing users to study genetic alterations across numerous cancer types. This showcases the potential of frontend development in enhancing bioinformatics accessibility (Cerami et al., 2012).
 
 Additionally, tools like **D3.js** and **Plotly** are instrumental in creating interactive visualizations that aid in interpreting bioinformatics data. These tools are particularly beneficial in cancer research, where complex datasets require sophisticated graphical representations to support decision-making and pattern recognition (Bostock et al., 2011).
